@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1575235022 source:c:\users\igora\onedrive\documentos\programac\exercfundamentos\sorteio\main.c
+	<stdio.h>
+	<stdlib.h>
+	"sorteio.h"
+	<time.h>
+
+1575234880 c:\users\igora\onedrive\documentos\programac\exercfundamentos\sorteio\sorteio.h
+
+1575234745 source:c:\users\igora\onedrive\documentos\programac\exercfundamentos\sorteio\sorteio.c
+	<stdio.h>
+	<time.h>
+	"sorteio.h"
+
